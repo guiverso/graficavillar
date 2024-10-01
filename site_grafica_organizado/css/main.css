@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+main{
+    margin:3%;
+}
+
+article{
+    padding: 0% 2% 0% 2%;
+}
+
+p{text-indent: 5%;}
